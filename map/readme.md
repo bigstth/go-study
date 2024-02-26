@@ -9,4 +9,4 @@ struct value มีหลาย type ได้
 
 map key เป็น indexed สามารถ iterate ได้ struct ไม่ได้
 
-![mapvsstruct](https://raw.githubusercontent.com/bigstth/go-learning/main/go-map/mapvsstruct.png)
+![mapvsstruct](https://raw.githubusercontent.com/bigstth/go-study/main/map/mapvsstruct.png)
